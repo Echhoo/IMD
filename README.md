@@ -25,6 +25,24 @@
 
 - active and intent
 
+#### lab5
+
+- implicit intents
+
+#### lab6
+
+- DroidCafe
+
+#### lab7
+
+- Order DroidCafe
+
+- Tab Experiment
+
+- RecyclerView
+
+  
+
 ## Others
 
 - ...
